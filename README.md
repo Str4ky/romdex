@@ -45,7 +45,7 @@ Games
         ├───game
         │     └─rom.file
         │
-        └───dlc
+        └───content
               └─rom.file
 ```
 
