@@ -112,9 +112,6 @@ Using a docker-compose.yml file
 services:
   romdex:
     image: straky/romdex:latest
-    build:
-      context: .
-      target: production
     ports:
       - "8080:8080"
     environment:
