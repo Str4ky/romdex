@@ -1,0 +1,55 @@
+{
+    "app": {
+        "title": "Romdex"
+    },
+    "menu": {
+        "all": "All Games",
+        "settings": "Settings"
+    },
+    "settings": {
+        "lang": "Language",
+        "theme": "Theme",
+        "themes": {
+            "purple": "Purple",
+            "blue": "Blue",
+            "green": "Green",
+            "red": "Red",
+            "orange": "Orange",
+            "black": "Black"
+        },
+        "effect": "3D effect on cards",
+        "choices": {
+            "enable": "Enable",
+            "disable": "Disable"
+        },
+        "missing": "SteamGrid API key missing, automatic assets downloading won't work"
+    },
+    "input": {
+        "search": "Search..."
+    },
+    "game": {
+        "types": {
+            "game": "Game",
+            "encrypted": "Encrypted Game",
+            "decrypted": "Decrypted Game",
+            "update": "Update",
+            "content": "DLC",
+            "demo": "Demo"
+        },
+        "download": {
+            "title": "Download Game",
+            "button": "Download"
+        },
+        "upload": {
+            "saving": "Saving image…",
+            "success": "Image replaced.",
+            "tooLarge": "The image must not exceed 20 MB.",
+            "error": "Unable to replace the image. Check the file (PNG, JPEG, WebP, GIF or AVIF, up to 40 million pixels) and the server’s write permissions."
+        },
+        "context": {
+            "poster": "Replace Image",
+            "banner": "Replace Banner",
+            "logo": "Replace Logo"
+        }
+    }
+}

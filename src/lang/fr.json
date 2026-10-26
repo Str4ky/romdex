@@ -1,0 +1,55 @@
+{
+    "app": {
+        "title": "Romdex"
+    },
+    "menu": {
+        "all": "Tous les jeux",
+        "settings": "Paramètres"
+    },
+    "settings": {
+        "lang": "Langue",
+        "theme": "Thème",
+        "themes": {
+            "purple": "Violet",
+            "blue": "Bleu",
+            "green": "Vert",
+            "red": "Rouge",
+            "orange": "Orange",
+            "black": "Noir"
+        },
+        "effect": "Effet 3D sur les cartes",
+        "choices": {
+            "enable": "Activer",
+            "disable": "Désactiver"
+        },
+        "missing": "Clé API SteamGrid manquante, le téléchargement automatique des images ne fonctionnera pas"
+    },
+    "input": {
+        "search": "Rechercher..."
+    },
+    "game": {
+        "types": {
+            "game": "Jeu",
+            "encrypted": "Jeu Chiffré",
+            "decrypted": "Jeu Déchiffré",
+            "update": "Mise à jour",
+            "content": "DLC",
+            "demo": "Démo"
+        },
+        "download": {
+            "title": "Télécharger le jeu",
+            "button": "Télécharger"
+        },
+        "upload": {
+            "saving": "Enregistrement de l’image…",
+            "success": "Image remplacée.",
+            "tooLarge": "L’image ne doit pas dépasser 20 Mo.",
+            "error": "Impossible de remplacer l’image. Vérifiez le fichier (PNG, JPEG, WebP, GIF ou AVIF, 40 millions de pixels maximum) et les droits d’écriture du serveur."
+        },
+        "context": {
+            "poster": "Remplacer l'image",
+            "banner": "Remplacer la bannière",
+            "logo": "Remplacer le logo"
+        }
+    }
+}

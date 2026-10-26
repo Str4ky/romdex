@@ -1,0 +1,162 @@
+[
+    {
+        "name": "NES",
+        "alias": "nes",
+        "icon": "nes"
+    },
+    {
+        "name": "SNES",
+        "alias": "snes",
+        "icon": "snes"
+    },
+    {
+        "name": "Game Boy",
+        "alias": "gb",
+        "icon": "gb"
+    },
+    {
+        "name": "Game Boy Advance",
+        "alias": "gba",
+        "icon": "gba"
+    },
+    {
+        "name": "Nintendo DS",
+        "alias": "ds",
+        "icon": "ds"
+    },
+    {
+        "name": "Nintendo 3DS",
+        "alias": "3ds",
+        "icon": "3ds"
+    },
+    {
+        "name": "Wii",
+        "alias": "wii",
+        "icon": "disc"
+    },
+    {
+        "name": "Gamecube",
+        "alias": "gcn",
+        "icon": "gcn"
+    },
+    {
+        "name": "Wii U",
+        "alias": "wiiu",
+        "icon": "disc"
+    },
+    {
+        "name": "Switch",
+        "alias": "switch",
+        "icon": "switch"
+    },
+    {
+        "name": "Switch 2",
+        "alias": "switch2",
+        "icon": "switch"
+    },
+    {
+        "name": "PlayStation",
+        "alias": "ps1",
+        "icon": "disc"
+    },
+    {
+        "name": "PlayStation 2",
+        "alias": "ps2",
+        "icon": "disc"
+    },
+    {
+        "name": "PlayStation 3",
+        "alias": "ps3",
+        "icon": "disc"
+    },
+    {
+        "name": "PlayStation 4",
+        "alias": "ps4",
+        "icon": "disc"
+    },
+    {
+        "name": "PlayStation 5",
+        "alias": "ps5",
+        "icon": "disc"
+    },
+    {
+        "name": "PSP",
+        "alias": "psp",
+        "icon": "psp"
+    },
+    {
+        "name": "PS Vita",
+        "alias": "vita",
+        "icon": "psvita"
+    },
+    {
+        "name": "Xbox",
+        "alias": "xbox",
+        "icon": "disc"
+    },
+    {
+        "name": "Xbox 360",
+        "alias": "xbox360",
+        "icon": "disc"
+    },
+    {
+        "name": "Xbox One",
+        "alias": "xboxone",
+        "icon": "disc"
+    },
+    {
+        "name": "Xbox Series",
+        "alias": "xboxseries",
+        "icon": "disc"
+    },
+    {
+        "name": "Master System",
+        "alias": "mastersystem",
+        "icon": "mastersystem"
+    },
+    {
+        "name": "Mega Drive",
+        "alias": "megadrive",
+        "icon": "megadrive"
+    },
+    {
+        "name": "Sega CD",
+        "alias": "segacd",
+        "icon": "disc"
+    },
+    {
+        "name": "Game Gear",
+        "alias": "gamegear",
+        "icon": "gamegear"
+    },
+    {
+        "name": "Dreamcast",
+        "alias": "dreamcast",
+        "icon": "dreamcast"
+    },
+    {
+        "name": "Neo Geo",
+        "alias": "neogeo",
+        "icon": "neogeo"
+    },
+    {
+        "name": "Neo Geo Pocket",
+        "alias": "neogeopocket",
+        "icon": "neogeopocket"
+    },
+    {
+        "name": "Philips CD-i",
+        "alias": "cdi",
+        "icon": "disc"
+    },
+    {
+        "name": "Mobigo",
+        "alias": "mobigo",
+        "icon": "mobigo"
+    },
+    {
+        "name": "V.Smile",
+        "alias": "vsmile",
+        "icon": "vsmile"
+    }
+]
