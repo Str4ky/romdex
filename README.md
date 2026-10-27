@@ -61,8 +61,8 @@ Here's the list of consoles currently in the application.<br>
 - Wii
 - Gamecube
 - Wii U
-- Switch
-- Switch 2
+- Nintendo Switch
+- Nintendo Switch 2
 - PlayStation
 - PlayStation 2
 - PlayStation 3
