@@ -2,7 +2,7 @@
 
 ### Your personal rom collection shelf
 
-<img src="https://img.shields.io/badge/Available%20on%20Docker%20Hub-blue?style=for-the-badge&logo=docker&logoColor=white&link=https%3A%2F%2Fhub.docker.com%2Fr%2Fstraky%2Fromdex"/><br><br>
+[![Static Badge](https://img.shields.io/badge/Available%20on%20Docker%20Hub-blue?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/straky/romdex)<br><br>
 <img src="preview.gif"/><br>
 
 ## Summary
